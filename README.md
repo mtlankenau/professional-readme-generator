@@ -36,4 +36,4 @@ In order to test this project, I recommend installing a JavaScript testing frame
 ## Questions
 Have more questions about this particular project? Explore one or all of the following options:
 * Shoot me an email at <a href = "mailto: mtlankenau@gmail.com">mtlankenau@gmail.com</a>
-* Explore my profile on Github by <a href="github.com/mtlankenau">clicking this link</a>
+* Explore my profile on Github by <a href="https://www.github.com/mtlankenau">clicking this link</a>

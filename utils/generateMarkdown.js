@@ -71,7 +71,7 @@ ${data.tests}
 ## Questions
 Have more questions about this particular project? Explore one or all of the following options:
 * Shoot me an email at <a href = "mailto: ${data.email}">${data.email}</a>
-* Explore my profile on Github by <a href="https://github.com/${data.github}">clicking this link</a>
+* Explore my profile on Github by <a href="https://www.github.com/${data.github}">clicking this link</a>
 `;
 }
 
